@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eid-mubarak/static/css/main.965f6229.css",
+    "main.js": "/eid-mubarak/static/js/main.21a5b19c.js",
+    "static/js/787.d8d78c28.chunk.js": "/eid-mubarak/static/js/787.d8d78c28.chunk.js",
+    "index.html": "/eid-mubarak/index.html",
+    "main.965f6229.css.map": "/eid-mubarak/static/css/main.965f6229.css.map",
+    "main.21a5b19c.js.map": "/eid-mubarak/static/js/main.21a5b19c.js.map",
+    "787.d8d78c28.chunk.js.map": "/eid-mubarak/static/js/787.d8d78c28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965f6229.css",
+    "static/js/main.21a5b19c.js"
+  ]
+}
